@@ -1,0 +1,14 @@
+h1 {
+  padding: 10px;
+  background: purple;
+  color: white;
+}
+
+.button-group {
+  text-align: center;
+}
+
+.counter {
+  text-align: center;
+  font-size: 4em;
+}
